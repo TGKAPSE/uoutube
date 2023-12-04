@@ -1,0 +1,20 @@
+.right-nav{
+    display: flex;
+}
+.btn{
+    margin-left: 10px;
+    border: 2px solid rgb(66, 64, 64);
+    border-radius: 28px;
+    color: rgb(33, 168, 221);
+    background-color: black;
+    height: 31px;
+    width: 100px;
+    position: relative;
+    bottom: 3px;
+}
+.fa-regular{
+    margin-right: 13px;
+}
+.btn:hover{
+    background-color:rgb(80, 84, 85);
+}

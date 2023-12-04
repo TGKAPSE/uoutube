@@ -1,0 +1,13 @@
+.left-nav{
+    display: flex;
+    margin: 5px 20px;
+}
+.youtube-logo{
+    margin-left: 20px;
+}
+.fa-brands{
+    color: red;
+}
+.text-youtube{
+    font-weight: bold;  
+}
